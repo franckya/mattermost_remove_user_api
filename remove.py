@@ -10,7 +10,6 @@ per_page = 100
 fetch = 1
 user_id = 'USER_ID_HERE'
 channel_id = 'CHANNEL_ID_HERE'
-base_url = 'https://example.com/api/v4/channels/'
 final_url = "https://example.com/api/v4/channels/CHANNEL_ID_HEREc/members/USER_ID_HERE"
 
 #final_url= base_url+'channel_id'+"/members"+'user_id'
